@@ -1,0 +1,7 @@
+C:\Users\INSIGHT\Desktop\CEB\CEBSmartSolution\CEBSmartSolution_ClassLibrary\bin\Release\CEBSmartSolution_ClassLibrary.dll.config
+C:\Users\INSIGHT\Desktop\CEB\CEBSmartSolution\CEBSmartSolution_ClassLibrary\bin\Release\CEBSmartSolution_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\CEB\CEBSmartSolution\CEBSmartSolution_ClassLibrary\bin\Release\CEBSmartSolution_ClassLibrary.pdb
+C:\Users\INSIGHT\Desktop\CEB\CEBSmartSolution\CEBSmartSolution_ClassLibrary\obj\Release\CEBSmartSolution_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\INSIGHT\Desktop\CEB\CEBSmartSolution\CEBSmartSolution_ClassLibrary\obj\Release\CEBSmartSolution_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\INSIGHT\Desktop\CEB\CEBSmartSolution\CEBSmartSolution_ClassLibrary\obj\Release\CEBSmartSolution_ClassLibrary.dll
+C:\Users\INSIGHT\Desktop\CEB\CEBSmartSolution\CEBSmartSolution_ClassLibrary\obj\Release\CEBSmartSolution_ClassLibrary.pdb

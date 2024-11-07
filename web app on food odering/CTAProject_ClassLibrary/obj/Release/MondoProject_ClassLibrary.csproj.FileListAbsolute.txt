@@ -1,0 +1,5 @@
+C:\MondoProject 2022-01-22\MondoProject_ClassLibrary\bin\Release\MondoProject_ClassLibrary.dll.config
+C:\MondoProject 2022-01-22\MondoProject_ClassLibrary\bin\Release\MondoProject_ClassLibrary.dll
+C:\MondoProject 2022-01-22\MondoProject_ClassLibrary\bin\Release\MondoProject_ClassLibrary.pdb
+C:\MondoProject 2022-01-22\MondoProject_ClassLibrary\obj\Release\MondoProject_ClassLibrary.dll
+C:\MondoProject 2022-01-22\MondoProject_ClassLibrary\obj\Release\MondoProject_ClassLibrary.pdb

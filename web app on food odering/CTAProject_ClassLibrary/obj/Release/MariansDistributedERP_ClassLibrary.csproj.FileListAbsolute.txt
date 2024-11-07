@@ -1,0 +1,5 @@
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Release\MariansDistributedERP_ClassLibrary.dll.config
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Release\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager\MariansDistributedERP_ClassLibrary\bin\Release\MariansDistributedERP_ClassLibrary.pdb
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Release\MariansDistributedERP_ClassLibrary.dll
+C:\Users\Ceylon HQ\Desktop\Marians Artist Manager\MariansDistributedERP_ClassLibrary\obj\Release\MariansDistributedERP_ClassLibrary.pdb

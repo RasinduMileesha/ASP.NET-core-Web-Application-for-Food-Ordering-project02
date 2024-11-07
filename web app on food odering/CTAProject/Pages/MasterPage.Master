@@ -1,0 +1,178 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="CTAProject.Pages.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+ 
+    <meta name="viewport" content="width=device-width,height=device-height, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: Arial, Helvetica, sans-serif; margin: 0 0 1em 0;
+	padding: 0;}
+
+.navbar {
+  width: 100%;
+  background-color:#C93127;
+  overflow: inherit;
+  height:60px;
+  margin: 0 0 1em 0;
+	padding: 0;
+}
+
+.navbar a {
+  float: right;
+  
+  padding:14px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #e00b0b;
+}
+.img{
+    padding:12px;
+    width:120px;
+}
+.active {
+  background-color: #2C3E50;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+    float: right;
+  align-content:center;
+  padding:14px;
+  color: white;
+  text-decoration: none;
+  font-size: 11px;
+  }
+
+  .img{
+    padding:12px;
+    width:120px;
+}
+}
+
+</style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+      <style>
+        /* Apply CSS styles to the loading overlay */
+        #loadingOverlay {
+            display: flex;
+            flex-direction: column; /* To stack image and text vertically */
+            justify-content: center;
+            align-items: center;
+            z-index: 999;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #F9EBEA;
+            filter: alpha(opacity=97);
+            opacity: 0.95;
+        }
+
+        /* Style the loading image */
+        #loadingImage {
+            width: 140px; /* Adjust the width as needed */
+            height: 140px; /* Adjust the height as needed */
+        }
+
+        /* Style the loading text */
+        #loadingText {
+            font-style: italic;
+            font-weight: 400;
+            font-size: 27px; /* Adjust the font size as needed */
+            margin-top: 10px; /* Add some space between image and text */
+        }
+    </style>
+    <script type="text/javascript">
+         function ShowLoading(e) {
+             var loadingOverlay = document.createElement('div');
+             loadingOverlay.id = 'loadingOverlay';
+
+             var loadingImage = document.createElement('img');
+             loadingImage.id = 'loadingImage';
+             loadingImage.src = '../images/Loading.gif';
+
+             var loadingText = document.createElement('p');
+             loadingText.id = 'loadingText';
+             loadingText.textContent = 'Please Wait...';
+
+             loadingOverlay.appendChild(loadingImage);
+             loadingOverlay.appendChild(loadingText);
+
+             document.body.appendChild(loadingOverlay);
+
+             // These 2 lines cancel form submission, so only use if needed.
+             window.event.cancelBubble = true;
+             e.stopPropagation();
+         }
+    </script>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+
+
+        <asp:Panel ID="Panel1" runat="server" Width="100%" Height="65px" BackColor="#2C3E50">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col" align="left">
+
+                         <img src="../Logos/logo.png" class="img"/>
+
+                </div>
+
+                     <div class="col" align="right">
+                         <br />
+   <a class="active" href="#" id="A1" runat="server" onserverclick="CartClick" align="right"  style="color:white"><i class="fa fa-shopping-cart"></i> 
+                    <asp:Label ID="TotalPriceLBL" runat="server" Text="" ForeColor="White"></asp:Label>
+       <asp:Label ID="ItemCountLBL" runat="server" Text="" ForeColor="White"></asp:Label>
+
+
+   </a> 
+                         &nbsp;
+ <%-- <a class="active" href="#" id="A2" runat="server" align="right" style="color:white"><i class="fa fa-user"></i> Login</a> --%>
+                </div>
+
+
+                </div>
+
+            </div>
+
+        </asp:Panel>
+
+         <%--  <div class="navbar" >
+               
+            <div align="left">
+                   
+                </div>
+                <div align="right" style="text-align:right; vertical-align:central">            
+                <a class="active" href="#" id="CartBtn" runat="server" align="right"><i class="fa fa-shopping-cart"></i> <asp:Label ID="CartLabel" runat="server" Text="£0.00/ 0 items" ForeColor="White"></asp:Label></a> 
+  <a class="active" href="#" id="LoginBtn" runat="server" align="right"><i class="fa fa-user"></i> Login</a> 
+ </div>
+       </div>--%>
+
+<!-- /.main-menu -->
+
+
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        
+    </form>
+</body>
+</html>

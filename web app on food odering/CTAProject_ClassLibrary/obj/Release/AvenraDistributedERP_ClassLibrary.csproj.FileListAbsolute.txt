@@ -1,0 +1,54 @@
+C:\Users\Ceylon Innovation\Desktop\AvenraBayfonteGeniusApp\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Ceylon Innovation\Desktop\AvenraBayfonteGeniusApp\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Ceylon Innovation\Desktop\AvenraBayfonteGeniusApp\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Ceylon Innovation\Desktop\AvenraBayfonteGeniusApp\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\AvenraBayfonteGeniusApp\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\AvenraBayfonteGeniusApp\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\AvenraBayfonteGeniusApp\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\AvenraBayfonteGeniusApp\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\AvenraBayfonteGeniusApp\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+D:\New App\AvenraBayfonteGeniusAppBST\AvenraBayfonteGeniusAppBST\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.dll
+D:\New App\AvenraBayfonteGeniusAppBST\AvenraBayfonteGeniusAppBST\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.pdb
+D:\New App\AvenraBayfonteGeniusAppBST\AvenraBayfonteGeniusAppBST\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+D:\New App\AvenraBayfonteGeniusAppBST\AvenraBayfonteGeniusAppBST\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.dll
+D:\New App\AvenraBayfonteGeniusAppBST\AvenraBayfonteGeniusAppBST\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\AvenraBayfonteGeniusAppBST\AvenraBayfonteGeniusAppBST\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\AvenraBayfonteGeniusAppBST\AvenraBayfonteGeniusAppBST\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\AvenraBayfonteGeniusAppBST\AvenraBayfonteGeniusAppBST\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bayfonte R\Desktop\AvenraBayfonteGeniusAppBST\AvenraBayfonteGeniusAppBST\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\AvenraBayfonteGeniusAppBST\AvenraBayfonteGeniusAppBST\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\Genius V2.0\Genius APP V.2.1\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\Genius V2.0\Genius APP V.2.1\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\Genius V2.0\Genius APP V.2.1\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bayfonte R\Desktop\Genius V2.0\Genius APP V.2.1\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\Genius V2.0\Genius APP V.2.1\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\SKYNET Master\Bayfonte\SKYNET Connect Bayfonte\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\SKYNET Master\Bayfonte\SKYNET Connect Bayfonte\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\SKYNET Master\Bayfonte\SKYNET Connect Bayfonte\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bayfonte R\Desktop\SKYNET Master\Bayfonte\SKYNET Connect Bayfonte\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\SKYNET Master\Bayfonte\SKYNET Connect Bayfonte\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\SKYNET Connect Bayfonte 02\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\SKYNET Connect Bayfonte 02\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\SKYNET Connect Bayfonte 02\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bayfonte R\Desktop\SKYNET Connect Bayfonte 02\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\SKYNET Connect Bayfonte 02\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\SKYNET Connect Bayfonte V.2 Amend\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\SKYNET Connect Bayfonte V.2 Amend\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\SKYNET Connect Bayfonte V.2 Amend\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bayfonte R\Desktop\SKYNET Connect Bayfonte V.2 Amend\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\SKYNET Connect Bayfonte V.2 Amend\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\SKYNET Master\SKYNET Connect\SKYNET Connect Bayfonte V.3\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\SKYNET Master\SKYNET Connect\SKYNET Connect Bayfonte V.3\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\SKYNET Master\SKYNET Connect\SKYNET Connect Bayfonte V.3\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bayfonte R\Desktop\SKYNET Master\SKYNET Connect\SKYNET Connect Bayfonte V.3\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\SKYNET Master\SKYNET Connect\SKYNET Connect Bayfonte V.3\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\SKYNET Master\SKYNET Connect\SKYNET Connect Bayfonte V.4\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\SKYNET Master\SKYNET Connect\SKYNET Connect Bayfonte V.4\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\Bayfonte R\Desktop\SKYNET Master\SKYNET Connect\SKYNET Connect Bayfonte V.4\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bayfonte R\Desktop\SKYNET Master\SKYNET Connect\SKYNET Connect Bayfonte V.4\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\Bayfonte R\Desktop\SKYNET Master\SKYNET Connect\SKYNET Connect Bayfonte V.4\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\CeylonInnovation\Desktop\SKYNET Connect Bayfonte V.4-2020 Final\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\CeylonInnovation\Desktop\SKYNET Connect Bayfonte V.4-2020 Final\AvenraDistributedERP_ClassLibrary\bin\Release\AvenraDistributedERP_ClassLibrary.pdb
+C:\Users\CeylonInnovation\Desktop\SKYNET Connect Bayfonte V.4-2020 Final\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\CeylonInnovation\Desktop\SKYNET Connect Bayfonte V.4-2020 Final\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.dll
+C:\Users\CeylonInnovation\Desktop\SKYNET Connect Bayfonte V.4-2020 Final\AvenraDistributedERP_ClassLibrary\obj\Release\AvenraDistributedERP_ClassLibrary.pdb
